@@ -30,5 +30,5 @@ The comprehensive report, including the overview of tasks, necessary screenshots
 
 * *Database:* Oracle Database (Multitenant Architecture)
 * *Management Tool:* Oracle Enterprise Manager (OEM)
-* *Operating System:* [Specify your OS, e.g., Oracle Linux, Windows]
-* *SQL/Code:* [Specify where your code is, e.g., sql_commands.txt]
+* *Operating System:Windows
+* 
